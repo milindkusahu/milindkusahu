@@ -1,14 +1,22 @@
 # <p align="center">👋 I'm Milind Kumar Sahu</p>
 
 <h3 align="center">A passionate Fullstack developer from India</h3>
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/milindkusahu/milindkusahu/refs/heads/main/coding1.webp">
+
 <br>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/milindkusahu/milindkusahu/main/coding-transparent.gif">
 
 🌐 Check out my [portfolio website](https://milindsahu.com/) to see some of my work.
 
 Beyond core software development, I specialize in TypeScript and crafting responsive, modern user interfaces.
 
-I leverage CSS frameworks to build high-performance applications, with proven experience in improving website speed by 80% through Core Web Vital optimizations.
+I leverage CSS frameworks to build polished, production-ready applications. My expertise extends to the MERN stack, RESTful APIs, and creating optimized web experiences that users love.
+
+
+<br>
+
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 <br clear="right">
 
 ---
