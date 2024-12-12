@@ -2,19 +2,20 @@
 
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/milindkusahu/milindkusahu/main/coding-transparent.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/milindkusahu/milindkusahu/main/coding-transparent.gif">
 
 🌐 Check out my [portfolio website](https://milindsahu.com/) to see some of my work.
 
 Beyond core software development, I specialize in TypeScript and crafting responsive, modern user interfaces.
 
-I leverage CSS frameworks to build polished, production-ready applications.
+I leverage CSS frameworks to build high-performance applications, with proven experience in improving website speed by 80% through Core Web Vital optimizations.
+<br clear="right">
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindkusahu&theme=gruvbox)
+![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindkusahu&theme=gruvbox)
 
 ---
 
