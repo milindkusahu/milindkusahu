@@ -1,40 +1,66 @@
-<h1 align="center">Hi 👋, I'm Milind Kumar Sahu</h1>
+# <p align="center">👋 I'm Milind Kumar Sahu</p>
+
 <h3 align="center">A passionate Fullstack developer from India</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/milindkusahu/milindkusahu/main/coding-transparent.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milindkusahu&label=Profile%20views&color=0e75b6&style=flat" alt="milindkusahu" /> </p>
+🌐 Check out my [portfolio website](https://milindsahu.com/) to see some of my work.
 
-<p align="left"> <a href="https://twitter.com/milindkusahu" target="blank"><img src="https://img.shields.io/twitter/follow/milindkusahu?logo=twitter&style=for-the-badge" alt="milindkusahu" /></a> </p>
+Beyond core software development, I specialize in TypeScript and crafting responsive, modern user interfaces.
 
-- 🔭 I’m currently working on [Disfo Forum](https://github.com/milindkusahu/Disfo-Forum-Backend)
+I leverage CSS frameworks to build polished, production-ready applications.
 
-- 🌱 I’m currently learning **NodeJS**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/milindkusahu?tab=stars](https://github.com/milindkusahu?tab=stars)
+## 📈 GitHub Stats
 
-- 📝 I regularly write articles on [https://milindsahu.com/](https://milindsahu.com/)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindkusahu&theme=gruvbox)
 
-- 💬 Ask me about **Javascript**
+---
 
-- 📫 How to reach me **contact@milindsahu.com**
+## 🚀 Top Languages
 
-- 📄 Know about my experiences [https://www.crio.do/learn/portfolio/milindsahu2000/](https://www.crio.do/learn/portfolio/milindsahu2000/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milindkusahu&langs_count=8&layout=compact&theme=gruvbox)
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
+## Skills
+
+Here are some of the technologies and tools I work with:
+
 <p align="left">
-<a href="https://x.com/milindkusahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindkusahu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/milindsahu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/milindsahu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/milindkusahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milindkusahu" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/milindsahu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="milindsahu" height="30" width="40" /></a>
-</p>
+<!-- Skills icons -->
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React JS" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milindkusahu&show_icons=true&locale=en&layout=compact" alt="milindkusahu" /></p>
+## 📞 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milindkusahu&show_icons=true&locale=en" alt="milindkusahu" /></p>
+Feel free to reach out to me on [Twitter](https://x.com/milindkusahu "X") or [LinkedIn](https://www.linkedin.com/in/milindsahu/ "Milind LinkedIn") if you have any queries or want to discuss something interesting!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milindkusahu&" alt="milindkusahu" /></p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/milindkusahu?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a)](https://x.com/milindkusahu)
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milindkusahu&theme=gruvbox" alt="milindkusahu" /></p>
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milindkusahu)
